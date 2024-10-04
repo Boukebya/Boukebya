@@ -1,6 +1,6 @@
 # Yanis BOUKEBIR - Software Engineer
 
-Welcome to my GitHub! I'm Yanis, a passionate ** Engineer** with a focus on developing web applications and AI Integration
+Welcome to my GitHub! I'm Yanis, a passionate engineer with a focus on developing web applications and AI Integration
 
 ## 🛠️ Technologies & Tools
 
