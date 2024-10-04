@@ -1,16 +1,15 @@
-## Hi there 👋
+# Yanis BOUKEBIR - Software Engineer
 
-<!--
-**Boukebya/Boukebya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Yanis, a passionate ** Engineer** with a focus on developing web applications and AI Integration
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: Vue.js, React, Nuxt.js, Tailwind CSS
+- **Backend**: Node.js
+- **Databases**: MongoDB, MySQL
+- **Cloud Services**: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+- **Testing**: Playwright (E2E), Bruno (Functional Testing), unit testing
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/yanis-boukebir-5a5aab196/)
+- Email: boukebir.yanis@gmail.com
